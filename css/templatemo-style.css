@@ -22,7 +22,7 @@ html {
 
 /* Heading for all pages other than home */
 .page-heading {
-  background-image: url(../img/heading_bg.png);
+  background-image: url(../img/joe-photo/cresent-heights.JPG);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -149,7 +149,7 @@ nav {
   z-index: 100;
   left: 0;
   top: 0;
-  height: 100%;
+  height: 70%;
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
   width: 100%;
@@ -157,7 +157,7 @@ nav {
   opacity: 0;
   text-align: center;
   transform: translateY(-100%);
-  transition: all 0.5s;
+  transition: all 0.3s;
 }
 
 .overlay-menu.open {
@@ -303,6 +303,8 @@ nav {
   margin-top: 45px;
 }
 
+/*  ** images on home page **  */
+
 .full-screen-portfolio .container-fluid,
 .full-screen-portfolio .col-md-4,
 .col-md-8 {
@@ -340,7 +342,7 @@ nav {
   line-height: 15px;
   transform: translateY(25px);
   transition: .5s ease-in-out;
-  letter-spacing: 0.5px;
+  letter-spacing: 0.8px;
 }
 
 .full-screen-portfolio .portfolio-item em {
@@ -399,6 +401,9 @@ nav {
   width: 60px;
   height: 60px;
 }
+
+
+
 
 /* Modal */
 .modal {
@@ -571,10 +576,10 @@ footer p {
   text-align: center;
   color: #fff;
   font-weight: 200;
-  font-size: 13px;
+  font-size: 15px;
   text-transform: uppercase;
   padding-top: 33px;
-  letter-spacing: 0.5px;
+  letter-spacing: 0.8px;
 }
 
 footer a {
