@@ -22,7 +22,7 @@ html {
 
 /* Heading for all pages other than home */
 .page-heading {
-  background-image: url(../img/joe-photo/cresent-heights.JPG);
+  background-image: url(../img/joe-photo/sick-dt-shot.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -821,7 +821,7 @@ footer a:hover {
 
 
 .more-about-us {
-  background-image: url(../img/about_us.png);
+  background-image: url(../img/joe-photo/joe-mountain.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -831,7 +831,7 @@ footer a:hover {
 }
 
 .more-about-us .content {
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(109, 101, 101, 0.8);
   text-align: left;
   padding: 150px 60px;
   color: #fff;
@@ -892,21 +892,21 @@ footer a:hover {
   padding: 60px 0px;
   margin: 15px 0px;
   text-align: center;
-  background-color: #313131;
+  background-color: rgba(109, 101, 101, 0.8);
 }
 
 .pricing-tables .table-item h4 {
   margin-top: 0px;
   font-size: 36px;
   font-weight: 200;
-  color: #f4dd5b;
+  color: #d6f5f5;
   letter-spacing: 0.5px;
 }
 
 .pricing-tables .table-item span {
   font-size: 17px;
   display: inline-block;
-  color: #aaa;
+  color: rgb(151, 148, 148);
   letter-spacing: 0.5px;
   text-transform: capitalize;
   border-bottom: 1px solid #414141;
@@ -938,9 +938,9 @@ footer a:hover {
   text-transform: uppercase;
   font-weight: 600;
   background-color: transparent;
-  color: #f4dd5b;
+  color: #030303;
   letter-spacing: 2px;
-  border-bottom: 3px solid #f4dd5b;
+  border-bottom: 3px solid #c9dbe0;
   padding-bottom: 3px;
   text-decoration: none;
   transition: all 0.5s;
@@ -951,7 +951,7 @@ footer a:hover {
 }
 
 .pricing-tables .premium-item {
-  background-color: #f4dd5b;
+  background-color: #cfccbc;
 }
 
 .pricing-tables .premium-item h4,
