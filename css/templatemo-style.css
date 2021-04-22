@@ -195,6 +195,8 @@ nav {
   display: none;
 }
 
+
+
 .overlay-menu ul {
   list-style: none;
   margin-top: 80px;
@@ -906,7 +908,7 @@ footer a:hover {
 .pricing-tables .table-item span {
   font-size: 17px;
   display: inline-block;
-  color: rgb(151, 148, 148);
+  color: rgb(2, 0, 0);
   letter-spacing: 0.5px;
   text-transform: capitalize;
   border-bottom: 1px solid #414141;
