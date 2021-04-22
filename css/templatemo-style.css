@@ -149,7 +149,7 @@ nav {
   z-index: 100;
   left: 0;
   top: 0;
-  height: 70%;
+  height: 60%;
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
   width: 100%;
@@ -613,7 +613,7 @@ footer a:hover {
 
 .masonry .item {
   display: inline-block;
-  float: left;
+
 }
 
 .masonry .first-item {
